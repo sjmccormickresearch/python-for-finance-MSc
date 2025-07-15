@@ -1,5 +1,3 @@
-from turtledemo.forest import doit1
-
 import numpy as np
 from math import exp,log,sqrt
 from scipy.stats import norm
